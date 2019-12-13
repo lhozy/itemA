@@ -4,4 +4,5 @@ public class Teacher {
     private String name;
     private String addr;
     private Integer id;
+    private String sex;
 }
